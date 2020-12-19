@@ -169,11 +169,11 @@ public class Page {
 		Select select = new Select(dropdown);
 		select.selectByVisibleText(Value);
 		System.out.println(Value);
-	 // test.log(LogStatus.INFO, "Selecting in the locator" + locator);
+	 // test.log(LogStatus.INFO, "Selecng in the locator" + locator);
 	}
 	
 	
-	////////////////////////////////////////////////////////////////////
+	///////////////////////////////////Commiting for GIT /////////////////////////////////
     
     public boolean isElementPresent(By by)
     
